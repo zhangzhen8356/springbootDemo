@@ -2,7 +2,7 @@
 ## 简介
 本项目主要针对日常在使用springboot中，遇到的问题、知识点总结。
 ## 项目地址
-[aa](www.baidu.com)
+[https://github.com/zhangzhen8356/springbootDemo.git](https://github.com/zhangzhen8356/springbootDemo.git)
 ## 模块描述
 ###  模块1 -- 接口规范
 #### 背景
