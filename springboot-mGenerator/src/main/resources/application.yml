@@ -10,6 +10,11 @@ spring:
 
 #mybatis配置
 mybatis:
-  mapper-locations:
-    - classpath:mapper/*.xml
-    - classpath:com/**/mapper/*.xml
+  mapper-locations: classpath:mapper/*.xml
+
+logging:
+  level:
+    com:
+      zzhen: debug
+
+
